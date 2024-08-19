@@ -6,10 +6,7 @@ import (
 	"log"
 	"os"
 
-	//"github.com/<ваше имя на GitHub>/todo-list/models"
 	"github.com/andrey-boyar/proekt_doker-rep/models"
-	//"proekt_doker/models"
-	//"C:\Users\LapTOP\go\Projekts\proekt_doker/models"
 
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"

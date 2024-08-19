@@ -5,13 +5,6 @@ import (
 	"fmt"
 	"net/http"
 
-	//"github.com/<ваше имя на GitHub>/todo-list/database"
-	//"github.com/<ваше имя на GitHub>/todo-list/handlers"
-	//"proekt_doker/database"
-	//"proekt_doker/handlers"
-	//"Users/LapTOP/go/Projekts/proekt_doker/database"
-	//"Users/LapTOP/go/Projekts/proekt_doker/handlers"
-
 	"github.com/andrey-boyar/proekt_doker-rep/database"
 	"github.com/andrey-boyar/proekt_doker-rep/handlers"
 

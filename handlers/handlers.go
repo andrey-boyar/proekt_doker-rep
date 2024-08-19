@@ -8,16 +8,8 @@ import (
 	"net/http"
 	"strconv"
 
-	//"github.com/<ваше имя на GitHub>/todo-list/database"
-	//"github.com/<ваше имя на GitHub>/todo-list/models"
-	//"database"
-	//"models"
-
 	"github.com/andrey-boyar/proekt_doker-rep/database"
 	"github.com/andrey-boyar/proekt_doker-rep/models"
-
-	//"c:\users\laptop\go\projekts\proekt_doker\database"
-	//"c:\users\laptop\go\projekts\proekt_doker\models"
 
 	"github.com/go-chi/chi/v5"
 )
